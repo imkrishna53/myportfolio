@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Krishna Mishra",
+    "occupation": "Laravel Developer & Emerging ReactJS Developer",
+    "description": "Laravel Developer",
+    "image": "krishna.jpeg",
+    "bio": "My name is Krishna, I'm a Laravel Developer. Currently I'm working at SmartData Enterprises as an web developer. ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "mkrishmishra78@gmail.com",
+    "phone": "+91 8077862184",
+    "address": {
+      "street": "#266, Phase 11",
+      "city": "Mohali",
+      "state": "PB",
+      "zip": "160065"
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dream.developr",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "#",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Graphic Era Hill University",
+        "degree": "Master of Computer application",
+        "graduated": "June 2016",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "SmartData Enterprises LTD.",
+        "title": "Laravel Developer",
+        "years": "Jun 2020 - Present",
+        "description": "Developing Websites in Laravel and AngularJS"
+      },
+      {
+        "company": "Matrix Marketers",
+        "title": "PHP Developer",
+        "years": "Dec 2017 - Feb 2020",
+        "description": "Developed Websites in Wordpress and Laravel"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Wordpress",
+        "level": "80%"
+      },
+      {
+        "name": "WHMCS (Web Host Manager Complete Solution)",
+        "level": "60%"
+      },
+      {
+        "name": "Laravel",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "AngularJS",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "HomeJab",
+        "category": "Real Estate Website built with (Laravel and AngularJS)",
+        "image": "homejab.png",
+        "url": "https://homejab.com/"
+      },
+      {
+        "title": "Minton-Spidell",
+        "category": "Product catalog website (Laravel)",
+        "image": "MintonSpidell.png",
+        "url": "https://www.minton-spidell.com/"
+      },
+      {
+        "title": "NLF APP",
+        "category": "Renovate, Repair and Painting program for RRP workers (Laravel)",
+        "image": "NLF-APP.png",
+        "url": "https://worker.noleadfines.com"
+      },
+      {
+        "title": "Nutrachamps",
+        "category": "A free bottle redemption site (Wordpress, MWS, MailChimp)",
+        "image": "NutraChamps.png",
+        "url": "https://www.free.nutrachamps.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Very excellent and quick to understand, characterized by the accuracy of work, Good job.",
+        "user": "Unknown"
+      },
+      {
+        "text": "Overall good work!",
+        "user": "Unknown"
+      }
+    ]
+  }
+}
