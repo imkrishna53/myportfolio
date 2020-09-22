@@ -15,7 +15,7 @@
       "zip": "160065"
     },
     "website": "#",
-    "resumedownload": "#",
+    "resumedownload": "resume.pdf",
     "social": [
       {
         "name": "facebook",
@@ -126,7 +126,25 @@
         "title": "Nutrachamps",
         "category": "A free bottle redemption site (Wordpress, MWS, MailChimp)",
         "image": "NutraChamps.png",
-        "url": "https://www.free.nutrachamps.com"
+        "url": "https://free.nutrachamps.com"
+      },
+      {
+        "title": "Micronesian Seminar",
+        "category": "A social and historical search site (Wordpress)",
+        "image": "micsem.png",
+        "url": "http://micronesianseminar.org/"
+      },
+      {
+        "title": "2blunt",
+        "category": "A social and historical search site (Wordpress)",
+        "image": "2blunt.png",
+        "url": "https://www.2blunt.com/"
+      },
+      {
+        "title": "Naturals2Go",
+        "category": "Naturals2Go (Wordpress)",
+        "image": "n2go.png",
+        "url": "https://www.naturals2go.com/"
       }
     ]
   },
