@@ -4,7 +4,7 @@
     "occupation": "Laravel Developer & Emerging ReactJS Developer",
     "description": "Laravel Developer",
     "image": "krishna.jpeg",
-    "bio": "My name is Krishna, I'm a Laravel Developer. Currently I'm working at SmartData Enterprises as an web developer. ",
+    "bio": "My name is Krishna, I'm a Laravel Developer. Currently I'm working at SmartData Enterprises as a web developer. ",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "mkrishmishra78@gmail.com",
     "phone": "+91 8077862184",
@@ -152,11 +152,11 @@
     "testimonials": [
       {
         "text": "Very excellent and quick to understand, characterized by the accuracy of work, Good job.",
-        "user": "Unknown"
+        "user": "Al Goldsmith"
       },
       {
         "text": "Overall good work!",
-        "user": "Unknown"
+        "user": "Sammy"
       }
     ]
   }
